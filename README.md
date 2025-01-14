@@ -1,2 +1,7 @@
-# goph420-w2025-lab00-stAK
-Lab 00 - Initializing a remote GitHub repository for GOPH 420.
+# GOPH 420 - Inversion and Parameter Estimation for Geophysicists
+
+*Semester:* W2025
+*Instructor:* B. Karchewski
+*Author:* Avneet Kaur
+
+An example repository setup for a simple Python package.
